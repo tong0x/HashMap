@@ -6,7 +6,7 @@ import unittest
 """
 Created on Mon Jan  8 18:12:48 2018
 
-@author: tpow
+@author: Tong Pow
 """
 
 class TestHashMap(unittest.TestCase):
