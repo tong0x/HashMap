@@ -11,7 +11,7 @@ Implementation of HashMap using separate chaining.
 
 class HashMap:
     
-    # Initialize Hashtable as a list of lists with its inital capacity as 2
+    # Initialize Hashtable as a list of lists with its initial capacity as 2
     def __init__(self):
         self.capacity = 2
         self.num_items = 0
